@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi Connections👋, I'm Gitto George Thomas</h1>
-<h3 align="center">A passionate frontend developer from Cochin,Kerala,India</h3>
+<h3 align="center">A passionate frontend developer from Kottayam,Kerala,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gittogeorgethomas&label=Profile%20views&color=0e75b6&style=flat" alt="gittogeorgethomas" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gittogeorgethomas.netlify.app/](https://gittogeorgethomas.netlify.app/)
 
-- 💬 Ask me about **anything related to programming**
+- 💬 Ask me about **anything related to programming we can together move in to another world**
 
 - 📫 How to reach me **gittothomas8@gmail.com**
 
