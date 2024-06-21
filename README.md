@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gittogeorgethomas" alt="gittogeorgethomas" /></a> </p>
 
-- 🔭 I’m currently working on **Html,Css,Javascript**
+- 🔭 I’m currently working on **Flutter - Mobile App Development**
 
 - 🌱 I’m currently learning **React,Nodejs,Express,MongoDB**
 
